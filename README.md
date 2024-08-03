@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ucmadumere
-- 👀 I’m interested in frontend web development 
-- 🌱 I’m currently learning css
+- 👀 I’m a fullstack web developer 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ucyweb@gmail.com
 
